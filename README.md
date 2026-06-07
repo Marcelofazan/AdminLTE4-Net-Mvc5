@@ -7,8 +7,10 @@ Exemplo de criação de  Renderizar do AdminLTE4 com Layout em NET MVC5 Razor co
 | **AdminLTE** | Template de painel administrativo (Dashboard) de código aberto construído com o framework Bootstrap. |
 | **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados |
 
-#### 📁 Requisitos do Projeto
+#### Requisitos do Projeto
+- Para executar a aplicação é necessário executar o Script do MySQL.
 
+#### 🔄 Executar a aplicação
 Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/releases/download/v4.0.0/admin-lte-v4.0.0.zip)
@@ -26,9 +28,6 @@ adminlte
         |-------| /assets 
         |-------| /js
 ```
-
-#### 🔄 Executar a aplicação
-- Para executar a aplicação é necessário executar o Script do MySQL. 
 
 #### ⚠️ String de conexão do banco
 Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
