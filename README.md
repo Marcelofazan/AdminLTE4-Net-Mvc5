@@ -10,6 +10,15 @@ Exemplo de criação de  Renderizar do AdminLTE4 com Layout em NET MVC5 Razor co
 #### Requisitos do Projeto
 - Para executar a aplicação é necessário executar o Script do MySQL.
 
+#### ⚠️ String de conexão do banco
+Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
+
+```bash
+server=127.0.0.1;userid=root;password=SUASENHA;database=SEUBANCO;persistsecurityinfo=True;
+```
+
+O script para criação da tabela do exemplo encontra-se na pasta **Database**.
+
 #### 🔄 Executar a aplicação
 Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 
@@ -28,15 +37,6 @@ adminlte
         |-------| /assets 
         |-------| /js
 ```
-
-#### ⚠️ String de conexão do banco
-Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
-
-```bash
-server=127.0.0.1;userid=root;password=SUASENHA;database=SEUBANCO;persistsecurityinfo=True;
-```
-
-O script para criação da tabela do exemplo encontra-se na pasta **Database**.
 
 #### Aqui está uma demonstração do Projeto
 <img width="1360" height="612" alt="AdminLTE4-Net-Mvc5" src="https://github.com/user-attachments/assets/38abc628-4791-49a3-b91a-20acee7a07ec" />
