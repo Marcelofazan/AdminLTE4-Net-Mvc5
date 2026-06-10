@@ -38,5 +38,5 @@ adminlte
         |-------| /js
 ```
 
-#### Aqui está uma demonstração do Projeto
+#### 🎨 Aqui está uma demonstração do Projeto
 <img width="1360" height="612" alt="AdminLTE4-Net-Mvc5" src="https://github.com/user-attachments/assets/38abc628-4791-49a3-b91a-20acee7a07ec" />
