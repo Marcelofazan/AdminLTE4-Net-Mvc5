@@ -1,6 +1,9 @@
 ## 🌐 Net-Mvc-AdminLTE4 
 Exemplo de criação de  Renderizar do AdminLTE4 com Layout em NET MVC5 Razor com banco de dados MySQL.
 
+#### 🎨 Aqui está uma demonstração do Projeto
+<img width="800" height="350" alt="AdminLTE4-Net-Mvc5" src="https://github.com/user-attachments/assets/38abc628-4791-49a3-b91a-20acee7a07ec" />
+
 #### O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
 |-----------|-----------|
@@ -37,6 +40,3 @@ adminlte
         |-------| /assets 
         |-------| /js
 ```
-
-#### 🎨 Aqui está uma demonstração do Projeto
-<img width="1360" height="612" alt="AdminLTE4-Net-Mvc5" src="https://github.com/user-attachments/assets/38abc628-4791-49a3-b91a-20acee7a07ec" />
