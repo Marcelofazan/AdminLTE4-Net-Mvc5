@@ -12,9 +12,7 @@ Exemplo de renderização de layout AdminLTE4 em C# ASP.NET MVC5 com banco de da
 
 #### 💬 Requisitos do Projeto
 - Para executar a aplicação é necessário executar o Script do MySQL.
-- Baixar Pacote de Distribuição de Download da biblioteca e descompactar
-
-- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/releases/download/v4.0.0/admin-lte-v4.0.0.zip)
+- Baixar Pacote de Distribuição de Download da biblioteca e descompactar [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/releases/download/v4.0.0/admin-lte-v4.0.0.zip)
 
 Criar uma nova pasta chamada adminlte no Solution do Projeto
 - Acessar o diretorio na pasta AdminLTE-4 /dist ->  Arrastar as pastas (css), (assets) e (js) e Colar dentro da pasta adminlte
