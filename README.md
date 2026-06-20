@@ -10,20 +10,9 @@ Exemplo de renderização de layout AdminLTE4 em C# ASP.NET MVC5 com banco de da
 | **AdminLTE** | Template de painel administrativo (Dashboard) de código aberto construído com o framework Bootstrap. |
 | **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados |
 
-#### Requisitos do Projeto
+#### 💬 Requisitos do Projeto
 - Para executar a aplicação é necessário executar o Script do MySQL.
-
-#### ⚠️ String de conexão do banco
-Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
-
-```bash
-server=127.0.0.1;userid=root;password=SUASENHA;database=SEUBANCO;persistsecurityinfo=True;
-```
-
-O script para criação da tabela do exemplo encontra-se na pasta **Database**.
-
-#### 🔄 Executar a aplicação
-Baixar Pacote de Distribuição de Download da biblioteca e descompactar
+- Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/releases/download/v4.0.0/admin-lte-v4.0.0.zip)
 
@@ -40,3 +29,13 @@ adminlte
         |-------| /assets 
         |-------| /js
 ```
+
+#### ⚠️ String de conexão do banco
+Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
+
+```bash
+server=127.0.0.1;userid=root;password=SUASENHA;database=SEUBANCO;persistsecurityinfo=True;
+```
+
+O script para criação da tabela do exemplo encontra-se na pasta **Database**.
+
