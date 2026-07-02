@@ -8,6 +8,7 @@ Exemplo de renderização de layout AdminLTE4 em C# ASP.NET MVC5 com banco de da
 | Tecnologia | Descrição |
 |-----------|-----------|
 | **AdminLTE** | Template de painel administrativo (Dashboard) de código aberto construído com o framework Bootstrap. |
+| **Bootstrap** | Famework front-end de códigos prontos em HTML, CSS e JavaScript para criar sites e interfaces web responsivas |
 | **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados |
 
 #### 💬 Requisitos do Projeto
